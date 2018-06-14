@@ -7,4 +7,12 @@
 ###Referencias: 
 Ajuda da própria ferramenta.
 
-Livro Pentaho Kettle
+Livro Pentaho Kettle Solutions: Building OpenSource ...
+
+
+
+### Filter Rows
+Filter rows -> IN LIST -> Os itens da lista são separados por ';'
+
+### Formulas
+Atributos devem ser definidos entre colchetes[] -> [exemplo]
